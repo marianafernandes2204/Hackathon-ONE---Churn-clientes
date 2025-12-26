@@ -56,9 +56,9 @@ Os modelos de Machine Learning foram implementados utilizando **scikit-learn**, 
 
 - Regressão Logística  
 - Random Forest  
-- *(Arquitetura preparada para inclusão de novos modelos)*  
+- Gradient Boosting
 
-O **Random Forest** foi selecionado como modelo final por apresentar o melhor equilíbrio entre **accuracy**, **precision**, **recall** e **F1-score**, métricas críticas em cenários de churn, onde a redução de falsos negativos é essencial.
+O modelo selecionado foi a **Regressão Logística com balanceamento via SMOTE**, priorizando **Recall** como métrica principal. Embora apresente desempenho preditivo moderado **(Recall ≈ 0,50; AUC ≈ 0,50)**, o modelo mostrou-se estável sob validação **cruzada e bootstrap**, sendo confiável para uso operacional como ferramenta de triagem de risco.
 
 ---
 
@@ -149,13 +149,57 @@ O **Random Forest** foi selecionado como modelo final por apresentar o melhor eq
 - Kelly Muehlmann  &nbsp;<a href="https://github.com/KellyMuehlmann"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="18"/></a>
   &nbsp; | &nbsp;<a href="https://www.linkedin.com/in/kelly-muehlmann-43b9962b3/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18"/></a>
 
-- Luiz Alves  &nbsp;<a href="https://github.com/marianafernandes2204"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="18"/></a>
+- Luiz Alves  &nbsp;<a href="https://github.com/lf-all"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="18"/></a>
   &nbsp; | &nbsp;<a href="https://www.linkedin.com/in/lfall/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18"/></a>
   
 - Mariana Fernandes  &nbsp;<a href="https://github.com/marianafernandes2204"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="18"/></a>
   &nbsp; | &nbsp;<a href="https://www.linkedin.com/in/mariana-fernandes-0a93a71b5/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18"/></a>
 
 ---
+## 🔌 CONTRATO DA API
+
+### <font color=#1DB954> Endpoint
+ - POST /predict
+#
+#### **Entrada (JSON)**
+
+```json
+{
+    "endpoint": "POST /predict",
+    "payload_entrada": {
+        "gender": "Other",
+        "age": 27,
+        "country": "US",
+        "subscription_type": "Free",
+        "listening_time": 284,
+        "songs_played_per_day": 57,
+        "skip_rate": 0.14,
+        "device_type": "Desktop",
+        "ads_listened_per_week": 41,
+        "offline_listening": 0,
+        "songs_per_minute": 0.2,
+        "ad_intensity": 0.1025,
+        "frustration_index": 5.880000000000001,
+        "is_heavy_user": 1,
+        "premium_no_offline": 0
+    }
+```
+#### **Saída**
+
+```json
+{
+      "previsao": "Vai cancelar",
+      "probabilidade": 0.5396,
+      "threshold_utilizado": 0.431019
+      "insights": {
+            "causa_principal": "num__ads_listened_per_week",
+            "ponto_forte": "num__offline_listening",
+            "acao_recomendada": "Mitigar impacto de num__ads_listened_per_week"
+        }
+    }
+}
+```
+
 
 ## 🔄 Status do Projeto
 
