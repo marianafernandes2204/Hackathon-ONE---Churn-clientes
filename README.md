@@ -161,15 +161,15 @@ O modelo selecionado foi a **Regressão Logística com balanceamento via SMOTE**
 
 ```json
 {
-      "previsao": "Vai cancelar",
-      "probabilidade": 0.5396,
-      "threshold_utilizado": 0.431019
-      "insights": {
-            "causa_principal": "num__ads_listened_per_week",
-            "ponto_forte": "num__offline_listening",
-            "acao_recomendada": "Mitigar impacto de num__ads_listened_per_week"
-        }
+        "prediction": "Vai Cancelar",
+        "probability": 0.5396,
+        "decision_threshold": 0.431019,
+        "ai_diagnosis": {
+            "primary_risk_factor": "Anúncios por Semana",
+            "primary_retention_factor": "Uso Offline",
+            "suggested_action": "Priorizar oferta de retenção"
     }
+}
 ```
 ---
 ## 👥 Equipe do Projeto – Hackathon ONE II
