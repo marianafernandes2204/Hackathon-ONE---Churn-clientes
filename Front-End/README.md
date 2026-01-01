@@ -1,13 +1,3 @@
-<<<<<<< HEAD
-=======
-# Link para análise do Front-End
-
-https://marianafernandes2204.github.io/Hackathon-ONE---Churn-clientes/
-
---- 
-
-## React + Vite
->>>>>>> e77ba2f5b44c9d15274b27ab5db694338966d584
 
 
 <p align="center">
@@ -66,9 +56,4 @@ A aplicação foi construída para dar vida aos dados analisados. O foco princip
 2. Instale as dependências: `npm install`
 3. Rode o projeto: `npm run dev`
 
-<<<<<<< HEAD
-=======
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
-
->>>>>>> e77ba2f5b44c9d15274b27ab5db694338966d584
