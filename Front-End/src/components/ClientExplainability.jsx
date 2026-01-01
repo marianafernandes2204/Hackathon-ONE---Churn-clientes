@@ -17,7 +17,7 @@ export function ClientExplainability({ client }) {
     'songs_per_minute': 'Músicas por Minuto', 'ad_intensity': 'Intensidade de Anúncios',
     'frustration_index': 'Índice de Frustração', 'is_heavy_user': 'Usuário Intenso (Heavy)',
     'premium_no_offline': 'Premium sem Offline', 'premium_sub_month': 'Meses de Assinatura Premium',
-    'fav_genre': 'Gênero Favorito', 'listening_time': 'Tempo de Audição'
+    'fav_genre': 'Gênero Favorito'
   };
 
   const traduzir = (termo) => {

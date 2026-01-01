@@ -1,16 +1,58 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Spotify_logo_with_text.svg" width="250" alt="Spotify Logo">
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h1 align="center">Churn Analysis Dashboard ・ Front-End</h1>
 
-## React Compiler
+<p align="center">
+  <a href="https://marianafernandes2204.github.io/Hackathon-ONE---Churn-clientes/">
+    <img src="https://img.shields.io/badge/Acessar%20Projeto-Clique%20Aqui-green?style=for-the-badge&logo=vercel" alt="Link do Projeto">
+  </a>
+</p>
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+Este repositório contém o **Frontend** da solução desenvolvida para o Hackathon ONE. A aplicação transforma análises de dados complexas em uma interface intuitiva e acionável para gestores de retenção.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📸 Demonstração
+
+![Preview do Projeto](./assets/preview.gif)
+
+---
+
+## 📌 Visão Geral
+A aplicação foi construída para dar vida aos dados analisados. O foco principal é o **Storytelling de Dados**, permitindo que o usuário identifique em segundos:
+* Quais clientes estão em risco.
+* Quais os principais motivos da evasão.
+
+## ✨ Funcionalidades Principais
+* **📊 Dashboards Interativos:** Gráficos dinâmicos que segmentam clientes por perfil e comportamento.
+  
+* **🎯 Filtros Estratégicos:** Segmentação por tempo de contrato, tipo de serviço e classe demográfica.
+  
+* **⚡ Performance Extrema:** Interface ultrarrápida alimentada por **Vite**, com carregamento otimizado de assets.
+  
+* **📱 UI/UX Responsiva:** Design focado na experiência do usuário, totalmente adaptável a dispositivos móveis.
+
+## 🛠️ Tecnologias e Ferramentas
+* **[Vite](https://vitejs.dev/)** - Tooling de próxima geração para um desenvolvimento ágil.
+* **[React](https://reactjs.org/)** - Biblioteca principal para construção da interface.
+* **[Tailwind CSS](https://tailwindcss.com/)** - Estilização moderna e utilitária.
+* **[Lucide React](https://lucide.dev/)** - Pacote de ícones minimalistas.
+* **[Chart.js / Recharts](https://recharts.org/)** -  Visualização de dados de alta performance.
+
+## 🌐 Arquitetura Full-Stack
+- **Frontend:** React + Vite + Tailwind (Visualização e Dashboard)
+- **Backend:** Python/FastAPI (ou Node.js) + ONNX Runtime
+- **IA:** Modelo de Predição exportado via ONNX para inferência de alta performance.
+  
+## 🚀 Como Executar o Projeto
+
+1. Clone o projeto
+2. Instale as dependências: `npm install`
+3. Rode o projeto: `npm run dev`
+
