@@ -18,12 +18,6 @@ Este repositório contém o **Frontend** da solução desenvolvida para o Hackat
 
 ---
 
-## 📸 Demonstração
-
-![Preview do Projeto](./assets/preview.gif)
-
----
-
 ## 📌 Visão Geral
 A aplicação foi construída para dar vida aos dados analisados. O foco principal é o **Storytelling de Dados**, permitindo que o usuário identifique em segundos:
 * Quais clientes estão em risco.
