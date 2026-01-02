@@ -31,7 +31,7 @@
     "clientId": "3434",
     "probability": 0.5165,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "songs_per_minute"
   },
   {
@@ -192,7 +192,7 @@
     "clientId": "885",
     "probability": 0.5008,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "Uso Offline"
   },
   {
@@ -234,7 +234,7 @@
     "clientId": "7130",
     "probability": 0.4165,
     "prediction": "Não Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "country_IN"
   },
   {
@@ -255,7 +255,7 @@
     "clientId": "6008",
     "probability": 0.5247,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "Anúncios por Semana"
   },
   {
@@ -304,7 +304,7 @@
     "clientId": "7744",
     "probability": 0.4913,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "Uso Offline"
   },
   {
@@ -409,7 +409,7 @@
     "clientId": "2514",
     "probability": 0.5243,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "Anúncios por Semana"
   },
   {
@@ -444,7 +444,7 @@
     "clientId": "4024",
     "probability": 0.4951,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "songs_per_minute"
   },
   {
@@ -507,7 +507,7 @@
     "clientId": "1734",
     "probability": 0.4313,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "country_IN"
   },
   {
@@ -563,7 +563,7 @@
     "clientId": "890",
     "probability": 0.4769,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "Uso Offline"
   },
   {
@@ -612,7 +612,7 @@
     "clientId": "4287",
     "probability": 0.4651,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "Uso Offline"
   },
   {
@@ -633,7 +633,7 @@
     "clientId": "3171",
     "probability": 0.5092,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "Anúncios por Semana"
   },
   {
@@ -696,7 +696,7 @@
     "clientId": "4546",
     "probability": 0.4983,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "songs_per_minute"
   },
   {
@@ -766,7 +766,7 @@
     "clientId": "1561",
     "probability": 0.4812,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "Uso Offline"
   },
   {
@@ -787,7 +787,7 @@
     "clientId": "2134",
     "probability": 0.4693,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "Uso Offline"
   },
   {
@@ -871,7 +871,7 @@
     "clientId": "2044",
     "probability": 0.5177,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "Anúncios por Semana"
   },
   {
@@ -1095,7 +1095,7 @@
     "clientId": "7259",
     "probability": 0.4836,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "Anúncios por Semana"
   },
   {
@@ -1214,7 +1214,7 @@
     "clientId": "5282",
     "probability": 0.5216,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "Anúncios por Semana"
   },
   {
@@ -1249,7 +1249,7 @@
     "clientId": "6682",
     "probability": 0.4944,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "Uso Offline"
   },
   {
@@ -1501,7 +1501,7 @@
     "clientId": "1316",
     "probability": 0.479,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "songs_per_minute"
   },
   {
@@ -1662,7 +1662,7 @@
     "clientId": "129",
     "probability": 0.5295,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "Anúncios por Semana"
   },
   {
@@ -1767,7 +1767,7 @@
     "clientId": "6418",
     "probability": 0.5362,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "Anúncios por Semana"
   },
   {
@@ -1823,7 +1823,7 @@
     "clientId": "6752",
     "probability": 0.5411,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "songs_per_minute"
   },
   {
@@ -1921,7 +1921,7 @@
     "clientId": "7622",
     "probability": 0.5247,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "Uso Offline"
   },
   {
@@ -2054,7 +2054,7 @@
     "clientId": "5505",
     "probability": 0.5461,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "Anúncios por Semana"
   },
   {
@@ -2138,7 +2138,7 @@
     "clientId": "7888",
     "probability": 0.4903,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "Uso Offline"
   },
   {
@@ -2327,14 +2327,14 @@
     "clientId": "7399",
     "probability": 0.5549,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "Anúncios por Semana"
   },
   {
     "clientId": "7501",
     "probability": 0.477,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "Uso Offline"
   },
   {
@@ -2565,7 +2565,7 @@
     "clientId": "4701",
     "probability": 0.5562,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "Anúncios por Semana"
   },
   {
@@ -2628,7 +2628,7 @@
     "clientId": "3697",
     "probability": 0.5182,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "subscription_type_Student"
   },
   {
@@ -2684,7 +2684,7 @@
     "clientId": "1459",
     "probability": 0.5564,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "Anúncios por Semana"
   },
   {
@@ -2712,7 +2712,7 @@
     "clientId": "5593",
     "probability": 0.5317,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "songs_per_minute"
   },
   {
@@ -2761,7 +2761,7 @@
     "clientId": "2285",
     "probability": 0.4765,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "Uso Offline"
   },
   {
@@ -2887,7 +2887,7 @@
     "clientId": "6994",
     "probability": 0.4677,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "songs_per_minute"
   },
   {
@@ -2929,7 +2929,7 @@
     "clientId": "7025",
     "probability": 0.4582,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "country_IN"
   },
   {
@@ -2943,7 +2943,7 @@
     "clientId": "1441",
     "probability": 0.4463,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "Uso Offline"
   },
   {
@@ -3209,7 +3209,7 @@
     "clientId": "2767",
     "probability": 0.5417,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "songs_per_minute"
   },
   {
@@ -3265,7 +3265,7 @@
     "clientId": "4409",
     "probability": 0.574,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "Anúncios por Semana"
   },
   {
@@ -3300,7 +3300,7 @@
     "clientId": "7421",
     "probability": 0.4706,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "country_IN"
   },
   {
@@ -3349,7 +3349,7 @@
     "clientId": "6584",
     "probability": 0.5109,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "subscription_type_Student"
   },
   {
@@ -3412,7 +3412,7 @@
     "clientId": "1814",
     "probability": 0.5648,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "Anúncios por Semana"
   },
   {
@@ -3538,7 +3538,7 @@
     "clientId": "5508",
     "probability": 0.5279,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "Anúncios por Semana"
   },
   {
@@ -3566,7 +3566,7 @@
     "clientId": "7493",
     "probability": 0.5035,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "Uso Offline"
   },
   {
@@ -3615,7 +3615,7 @@
     "clientId": "1938",
     "probability": 0.5411,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "Anúncios por Semana"
   },
   {
@@ -3755,7 +3755,7 @@
     "clientId": "1857",
     "probability": 0.461,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "country_IN"
   },
   {
@@ -3972,7 +3972,7 @@
     "clientId": "3677",
     "probability": 0.4763,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "Uso Offline"
   },
   {
@@ -4280,7 +4280,7 @@
     "clientId": "2819",
     "probability": 0.4864,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "country_IN"
   },
   {
@@ -4364,7 +4364,7 @@
     "clientId": "4830",
     "probability": 0.4594,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "Uso Offline"
   },
   {
@@ -4392,7 +4392,7 @@
     "clientId": "4315",
     "probability": 0.5047,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "Anúncios por Semana"
   },
   {
@@ -4840,7 +4840,7 @@
     "clientId": "3349",
     "probability": 0.437,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "country_IN"
   },
   {
@@ -4903,7 +4903,7 @@
     "clientId": "2183",
     "probability": 0.499,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "subscription_type_Student"
   },
   {
@@ -4945,7 +4945,7 @@
     "clientId": "3418",
     "probability": 0.462,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "subscription_type_Student"
   },
   {
@@ -5155,7 +5155,7 @@
     "clientId": "2764",
     "probability": 0.4907,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "Anúncios por Semana"
   },
   {
@@ -5253,7 +5253,7 @@
     "clientId": "2792",
     "probability": 0.5355,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "Anúncios por Semana"
   },
   {
@@ -5267,7 +5267,7 @@
     "clientId": "345",
     "probability": 0.5158,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "Anúncios por Semana"
   },
   {
@@ -5281,14 +5281,14 @@
     "clientId": "853",
     "probability": 0.4281,
     "prediction": "Não Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "country_IN"
   },
   {
     "clientId": "5127",
     "probability": 0.4998,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "subscription_type_Student"
   },
   {
@@ -5302,7 +5302,7 @@
     "clientId": "7913",
     "probability": 0.5705,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "Anúncios por Semana"
   },
   {
@@ -5344,7 +5344,7 @@
     "clientId": "6216",
     "probability": 0.496,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "Anúncios por Semana"
   },
   {
@@ -5386,7 +5386,7 @@
     "clientId": "2570",
     "probability": 0.5647,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "Anúncios por Semana"
   },
   {
@@ -5456,7 +5456,7 @@
     "clientId": "2077",
     "probability": 0.5221,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "Anúncios por Semana"
   },
   {
@@ -6030,7 +6030,7 @@
     "clientId": "3716",
     "probability": 0.4978,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "subscription_type_Student"
   },
   {
@@ -6079,7 +6079,7 @@
     "clientId": "7668",
     "probability": 0.4956,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "subscription_type_Student"
   },
   {
@@ -6184,7 +6184,7 @@
     "clientId": "6390",
     "probability": 0.4429,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "country_IN"
   },
   {
@@ -6254,7 +6254,7 @@
     "clientId": "6950",
     "probability": 0.4767,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "subscription_type_Student"
   },
   {
@@ -6387,7 +6387,7 @@
     "clientId": "2132",
     "probability": 0.5074,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "Anúncios por Semana"
   },
   {
@@ -6457,14 +6457,14 @@
     "clientId": "21",
     "probability": 0.5331,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "Anúncios por Semana"
   },
   {
     "clientId": "3775",
     "probability": 0.4951,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "subscription_type_Student"
   },
   {
@@ -6513,7 +6513,7 @@
     "clientId": "6165",
     "probability": 0.4557,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "country_IN"
   },
   {
@@ -6583,7 +6583,7 @@
     "clientId": "2747",
     "probability": 0.5141,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "subscription_type_Student"
   },
   {
@@ -6611,7 +6611,7 @@
     "clientId": "7511",
     "probability": 0.4461,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "country_IN"
   },
   {
@@ -6667,7 +6667,7 @@
     "clientId": "5103",
     "probability": 0.4785,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "country_IN"
   },
   {
@@ -6688,7 +6688,7 @@
     "clientId": "2218",
     "probability": 0.5268,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "subscription_type_Student"
   },
   {
@@ -6702,7 +6702,7 @@
     "clientId": "1342",
     "probability": 0.465,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "subscription_type_Student"
   },
   {
@@ -6891,7 +6891,7 @@
     "clientId": "7931",
     "probability": 0.4988,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "Anúncios por Semana"
   },
   {
@@ -6933,7 +6933,7 @@
     "clientId": "2679",
     "probability": 0.467,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "subscription_type_Student"
   },
   {
@@ -7171,7 +7171,7 @@
     "clientId": "5477",
     "probability": 0.475,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "subscription_type_Student"
   },
   {
@@ -7185,7 +7185,7 @@
     "clientId": "3850",
     "probability": 0.5288,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "Anúncios por Semana"
   },
   {
@@ -7661,7 +7661,7 @@
     "clientId": "471",
     "probability": 0.4817,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "songs_per_minute"
   },
   {
@@ -7920,7 +7920,7 @@
     "clientId": "5435",
     "probability": 0.4711,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "subscription_type_Student"
   },
   {
@@ -7969,7 +7969,7 @@
     "clientId": "6026",
     "probability": 0.4806,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "subscription_type_Student"
   },
   {
@@ -8102,7 +8102,7 @@
     "clientId": "3766",
     "probability": 0.544,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "Anúncios por Semana"
   },
   {
@@ -8179,7 +8179,7 @@
     "clientId": "7113",
     "probability": 0.5241,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "Anúncios por Semana"
   },
   {
@@ -8214,21 +8214,21 @@
     "clientId": "4198",
     "probability": 0.5302,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "Anúncios por Semana"
   },
   {
     "clientId": "634",
     "probability": 0.451,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "Uso Offline"
   },
   {
     "clientId": "7857",
     "probability": 0.4429,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "country_IN"
   },
   {
@@ -8389,7 +8389,7 @@
     "clientId": "1447",
     "probability": 0.4706,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "Uso Offline"
   },
   {
@@ -8515,7 +8515,7 @@
     "clientId": "7644",
     "probability": 0.5323,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "Anúncios por Semana"
   },
   {
@@ -8536,7 +8536,7 @@
     "clientId": "1518",
     "probability": 0.4603,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "Uso Offline"
   },
   {
@@ -8613,14 +8613,14 @@
     "clientId": "3119",
     "probability": 0.5212,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "subscription_type_Student"
   },
   {
     "clientId": "4442",
     "probability": 0.5527,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "Anúncios por Semana"
   },
   {
@@ -8774,7 +8774,7 @@
     "clientId": "5857",
     "probability": 0.5125,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "Anúncios por Semana"
   },
   {
@@ -9110,7 +9110,7 @@
     "clientId": "1903",
     "probability": 0.4906,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "subscription_type_Student"
   },
   {
@@ -9138,7 +9138,7 @@
     "clientId": "4854",
     "probability": 0.4901,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "country_IN"
   },
   {
@@ -9285,7 +9285,7 @@
     "clientId": "6598",
     "probability": 0.5136,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "Anúncios por Semana"
   },
   {
@@ -9439,14 +9439,14 @@
     "clientId": "812",
     "probability": 0.4011,
     "prediction": "Não Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "country_IN"
   },
   {
     "clientId": "6348",
     "probability": 0.4105,
     "prediction": "Não Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "country_IN"
   },
   {
@@ -9551,7 +9551,7 @@
     "clientId": "3210",
     "probability": 0.5509,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "Anúncios por Semana"
   },
   {
@@ -9796,7 +9796,7 @@
     "clientId": "7395",
     "probability": 0.512,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "Anúncios por Semana"
   },
   {
@@ -9831,7 +9831,7 @@
     "clientId": "3658",
     "probability": 0.4722,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "subscription_type_Student"
   },
   {
@@ -9866,7 +9866,7 @@
     "clientId": "7423",
     "probability": 0.4446,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "Uso Offline"
   },
   {
@@ -10013,7 +10013,7 @@
     "clientId": "4238",
     "probability": 0.4867,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "subscription_type_Student"
   },
   {
@@ -10083,7 +10083,7 @@
     "clientId": "117",
     "probability": 0.5137,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "Anúncios por Semana"
   },
   {
@@ -10118,14 +10118,14 @@
     "clientId": "4098",
     "probability": 0.4853,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "songs_per_minute"
   },
   {
     "clientId": "488",
     "probability": 0.506,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "Anúncios por Semana"
   },
   {
@@ -10167,7 +10167,7 @@
     "clientId": "7176",
     "probability": 0.5306,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "Anúncios por Semana"
   },
   {
@@ -10251,7 +10251,7 @@
     "clientId": "6886",
     "probability": 0.4546,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "country_IN"
   },
   {
@@ -10405,7 +10405,7 @@
     "clientId": "4234",
     "probability": 0.5503,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "Anúncios por Semana"
   },
   {
@@ -10503,7 +10503,7 @@
     "clientId": "3791",
     "probability": 0.5482,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "Anúncios por Semana"
   },
   {
@@ -10573,7 +10573,7 @@
     "clientId": "2303",
     "probability": 0.4834,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "Anúncios por Semana"
   },
   {
@@ -10811,7 +10811,7 @@
     "clientId": "3753",
     "probability": 0.4981,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "subscription_type_Student"
   },
   {
@@ -10853,7 +10853,7 @@
     "clientId": "5637",
     "probability": 0.4717,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "subscription_type_Student"
   },
   {
@@ -10881,7 +10881,7 @@
     "clientId": "2481",
     "probability": 0.4919,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "Anúncios por Semana"
   },
   {
@@ -11098,7 +11098,7 @@
     "clientId": "4207",
     "probability": 0.565,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "Anúncios por Semana"
   },
   {
@@ -11175,7 +11175,7 @@
     "clientId": "3559",
     "probability": 0.4956,
     "prediction": "Vai Cancelar",
-    "primary_risk_factor": "Tempo de Audição",
+    "primary_risk_factor": "Tempo de Escuta",
     "primary_retention_factor": "songs_per_minute"
   },
   {
