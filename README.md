@@ -64,54 +64,62 @@ O modelo selecionado foi a **Regressão Logística com balanceamento via SMOTE**
 
 ## 🛠️ Stack Tecnológico
 
-### Linguagens  &  Ambiente
+### Linguagens & Ambiente
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="36"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" title="Python"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" title="Java"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="36" title="Google Colab"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="36" title="Kaggle"/>
 </p>
 
-### Data Science  &  Machine Learning
+### Data Science & Machine Learning
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="36"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="36"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="36"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" width="60"/>&nbsp;
-  <img src="https://joblib.readthedocs.io/en/latest/_static/joblib_logo.svg" width="36"/>&nbsp;
-  <img src="https://cdn.simpleicons.org/onnx" width="36"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/microsoft/onnxruntime/main/docs/images/ONNX_Runtime_icon.png" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36" title="Pandas"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="36" title="NumPy"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="36" title="Scikit-Learn"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="36" title="Matplotlib"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" width="60" title="Seaborn"/>&nbsp;
+  <img src="https://joblib.readthedocs.io/en/latest/_static/joblib_logo.svg" width="36" title="Joblib"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/onnx" width="36" title="ONNX"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/microsoft/onnxruntime/main/docs/images/ONNX_Runtime_icon.png" width="36" title="ONNX Runtime"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/2621/2621215.png" width="36" title="Joblib (Model Persistence)"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/1041/1041916.png" width="36" title="Imbalanced-Learn (SMOTE)"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="36" title="Phi-K Correlation"/>&nbsp;
 </p>
 
-### Backend
+### Front-End & Visualização
 <p align="left">
-  <img src="https://cdn.simpleicons.org/springboot" width="36"/>&nbsp;
-  <img src="https://cdn.simpleicons.org/springsecurity" width="36"/>&nbsp;
-  <img src="https://cdn.simpleicons.org/spring" width="36"/>&nbsp;
-  <img src="https://cdn.simpleicons.org/flyway" width="36"/>&nbsp;
-  <img src="https://img.shields.io/badge/Java-Lombok-EA1E2D?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="40" title="Vite"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40" title="Tailwind CSS"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=lucide" width="40" title="Lucide React"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=chartjs" width="40" title="Chart.js / Recharts"/>
+</p>
+
+### Back-End
+<p align="left">
+  <img src="https://cdn.simpleicons.org/springboot" width="36" title="Spring Boot"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/springsecurity" width="36" title="Spring Security"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/spring" width="36" title="Spring Framework"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/flyway" width="36" title="Flyway"/>&nbsp;
+  <img src="https://img.shields.io/badge/Java-Lombok-EA1E2D?style=flat-square&logo=java&logoColor=white" title="Lombok"/>
 </p>
 
 ### Banco de Dados
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" title="MySQL"/>
 </p>
 
 ### Testes
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" width="36" title="JUnit 5"/>
 </p>
 
-### Versionamento
+### Versionamento & Repositório
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" title="Git"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg#gh-dark-mode-only" width="36" title="GitHub">
 </p>
-
 ---
 
 ##  ⚠️ Limitações do Estudo
@@ -174,31 +182,19 @@ O modelo selecionado foi a **Regressão Logística com balanceamento via SMOTE**
 ---
 ## 👥 Equipe do Projeto – Hackathon ONE II
 
-### **Time Bank-End**
-- Ezandro Bueno  &nbsp;<a href="https://github.com/ezbueno"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="18"/></a>
-&nbsp; | &nbsp;<a href="https://www.linkedin.com/in/ezandro-bueno-776aab192/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18"/></a>
+### **Time Back-End**
+- Ezandro Bueno &nbsp; <a href="https://github.com/ezbueno" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg#gh-dark-mode-only" width="18" style="vertical-align: middle;"></a> &nbsp; | &nbsp; <a href="https://www.linkedin.com/in/ezandro-bueno-776aab192/" style="text-decoration: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18" style="vertical-align: middle;"/></a>
+- Jorge Filipi Dias &nbsp; <a href="https://github.com/JorgeFilipi" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg#gh-dark-mode-only" width="18" style="vertical-align: middle;"></a> &nbsp; | &nbsp; <a href="https://www.linkedin.com/in/jfdias/" style="text-decoration: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18" style="vertical-align: middle;"/></a>
+- Wanderson Souza &nbsp; <a href="https://github.com/wandersonjafe" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg#gh-dark-mode-only" width="18" style="vertical-align: middle;"></a> &nbsp; | &nbsp; <a href="https://www.linkedin.com/in/wandersonjafe/" style="text-decoration: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18" style="vertical-align: middle;"/></a>
+- Wendell Dorta &nbsp; <a href="https://github.com/Wendell-Dorta" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg#gh-dark-mode-only" width="18" style="vertical-align: middle;"></a> &nbsp; | &nbsp; <a href="https://www.linkedin.com/in/wendell-dorta/" style="text-decoration: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18" style="vertical-align: middle;"/></a>
 
-- Jorge Filipi Dias  &nbsp;<a href="https://github.com/JorgeFilipi"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="18"/></a>
-  &nbsp; | &nbsp;<a href="https://www.linkedin.com/in/jfdias/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18"/></a>
+#
 
-- Wanderson Souza  &nbsp;<a href="https://github.com/wandersonjafe"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="18"/></a>
-  &nbsp; | &nbsp;<a href="https://www.linkedin.com/in/wandersonjafe/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18"/></a>
-
-- Wendell Dorta  &nbsp;<a href="https://github.com/Wendell-Dorta"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="18"/></a>
-  &nbsp; | &nbsp;<a href="https://www.linkedin.com/in/wendell-dorta/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18"/></a>
-
-### **TIme Data Science**
-- André Ribeiro  &nbsp;<a href="https://github.com/aluizr"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="18"/></a>
-  &nbsp; | &nbsp;<a href="https://www.linkedin.com/in/andreluizr/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18"/></a>
-
-- Kelly Muehlmann  &nbsp;<a href="https://github.com/KellyMuehlmann"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="18"/></a>
-  &nbsp; | &nbsp;<a href="https://www.linkedin.com/in/kelly-muehlmann-43b9962b3/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18"/></a>
-
-- Luiz Alves  &nbsp;<a href="https://github.com/lf-all"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="18"/></a>
-  &nbsp; | &nbsp;<a href="https://www.linkedin.com/in/lfall/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18"/></a>
-  
-- Mariana Fernandes  &nbsp;<a href="https://github.com/marianafernandes2204"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="18"/></a>
-  &nbsp; | &nbsp;<a href="https://www.linkedin.com/in/mariana-fernandes-0a93a71b5/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18"/></a>
+### **Time Data Science**
+- André Ribeiro &nbsp; <a href="https://github.com/aluizr" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg#gh-dark-mode-only" width="18" style="vertical-align: middle;"></a> &nbsp; | &nbsp; <a href="https://www.linkedin.com/in/andreluizr/" style="text-decoration: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18" style="vertical-align: middle;"/></a>
+- Kelly Muehlmann &nbsp; <a href="https://github.com/KellyMuehlmann" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg#gh-dark-mode-only" width="18" style="vertical-align: middle;"></a> &nbsp; | &nbsp; <a href="https://www.linkedin.com/in/kelly-muehlmann-43b9962b3/" style="text-decoration: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18" style="vertical-align: middle;"/></a>
+- Luiz Alves &nbsp; <a href="https://github.com/lf-all" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg#gh-dark-mode-only" width="18" style="vertical-align: middle;"></a> &nbsp; | &nbsp; <a href="https://www.linkedin.com/in/lfall/" style="text-decoration: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18" style="vertical-align: middle;"/></a>
+- Mariana Fernandes &nbsp; <a href="https://github.com/marianafernandes2204" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg#gh-dark-mode-only" width="18" style="vertical-align: middle;"></a> &nbsp; | &nbsp; <a href="https://www.linkedin.com/in/mariana-fernandes-0a93a71b5/" style="text-decoration: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18" style="vertical-align: middle;"/></a>
 
 ---
 ## 🔄 Status do Projeto
